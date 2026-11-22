@@ -1,5 +1,3 @@
-> [!CAUTION]
-> Overdrive/Libby has requested us to delete this repo. We plan to comply, for those who wish to fight make your mirrors now!
 
 # LibbyRip
 
